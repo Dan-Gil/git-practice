@@ -1,4 +1,4 @@
 Name: Danae
 Age: 32
 Favorite Color: Black
-Favortite Animal: Cat
+Favorite Animal: Cat
